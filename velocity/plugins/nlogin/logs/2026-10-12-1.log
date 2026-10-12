@@ -1,0 +1,38 @@
+[2026/10/12 17:09:12]: §9          __             _       
+[2026/10/12 17:09:12]: §9  _ __   / /  ___   __ _(_)_ __  
+[2026/10/12 17:09:12]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2026/10/12 17:09:12]: §9 | | | / /__| (_) | (_| | | | | |
+[2026/10/12 17:09:12]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2026/10/12 17:09:12]: §9                  |___/            
+[2026/10/12 17:09:12]: §9 By: www.nickuc.com - V 10.4.23
+[2026/10/12 17:09:12]: §9 
+[2026/10/12 17:09:13]: §3[nLogin] [DEBUG] All settings were loaded in 573 ms.
+[2026/10/12 17:09:13]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2026/10/12 17:09:13]: [nLogin] Download finished (took 1223ms, hash = a88c660f291c4f5e604c455ca423d97478b8562a783765351030536fd0e0407a)
+[2026/10/12 17:09:13]: §3[nLogin] [DEBUG] All plugin messages were loaded in 234 ms (languageByClient=false).
+[2026/10/12 17:09:13]: §3[nLogin] [DEBUG] All proxy settings were loaded in 22 ms.
+[2026/10/12 17:09:14]: §3[nLogin] [DEBUG] Loading database...
+[2026/10/12 17:09:14]: §3[nLogin] [DEBUG] Starting logger filter...
+[2026/10/12 17:09:19]: 
+[2026/10/12 17:09:19]:  §bThank you so much for choosing nLogin! §4<3
+[2026/10/12 17:09:19]: 
+[2026/10/12 17:09:19]:  §4For your safety, please read the message below:
+[2026/10/12 17:09:19]:   §cNever download nLogin from unknown sources.
+[2026/10/12 17:09:19]:   §cA modified version may contain malicious software.
+[2026/10/12 17:09:19]: 
+[2026/10/12 17:09:19]:  §3Trusted sources:
+[2026/10/12 17:09:19]:   §bwww.nickuc.com
+[2026/10/12 17:09:19]:   §bwww.github.com/nickuc
+[2026/10/12 17:09:19]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2026/10/12 17:09:19]: 
+[2026/10/12 17:09:19]:  §3Official support channels:
+[2026/10/12 17:09:19]:   §bDiscord group: §fwww.nickuc.com/discord
+[2026/10/12 17:09:19]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2026/10/12 17:09:19]:   §bEmail: §fsupport@nickuc.com
+[2026/10/12 17:09:19]:   §bYouTube: §fyoutube.com/nickuc
+[2026/10/12 17:09:19]: 
+[2026/10/12 17:09:19]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2026/10/12 17:09:19]:  §eand click the "Setup plugin" button to configure your plugin.
+[2026/10/12 17:09:19]: 
+[2026/10/12 17:10:08]: [nLogin] Update was successfully queued, do not forcibly stop your server. (v10.4.23 72b10d => v10.4.27 84e4f7)
+[2026/10/12 17:10:08]: [nLogin] Successful plugin core shutdown (took 0.02s)

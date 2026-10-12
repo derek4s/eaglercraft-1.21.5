@@ -1,0 +1,30 @@
+16:57:04.466 INFO  Limbo -- Starting server...
+16:57:05.791 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+16:57:19.986 INFO  Limbo -- Unknown command. Type "help" to get commands list
+16:57:23.522 INFO  Limbo -- Unknown command. Type "help" to get commands list
+16:57:30.744 INFO  Limbo -- Unknown command. Type "help" to get commands list
+16:57:39.165 INFO  Limbo -- Unknown command. Type "help" to get commands list
+16:57:41.515 INFO  Limbo -- Available commands:
+16:57:41.516 INFO  Limbo -- help - Show this message
+16:57:41.518 INFO  Limbo -- conn - Display connections count
+16:57:41.518 INFO  Limbo -- ver - Display limbo version
+16:57:41.519 INFO  Limbo -- mem - Display memory usage
+16:57:41.519 INFO  Limbo -- stop - Stop the server
+16:57:41.519 INFO  Limbo -- version - Display limbo version
+16:57:48.290 INFO  Limbo -- Stopping server...
+16:57:48.293 INFO  Limbo -- Server stopped, Goodbye!
+17:03:10.942 INFO  Limbo -- Starting server...
+17:03:11.796 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+17:03:23.919 INFO  Limbo -- Available commands:
+17:03:23.922 INFO  Limbo -- help - Show this message
+17:03:23.923 INFO  Limbo -- conn - Display connections count
+17:03:23.924 INFO  Limbo -- ver - Display limbo version
+17:03:23.924 INFO  Limbo -- mem - Display memory usage
+17:03:23.924 INFO  Limbo -- stop - Stop the server
+17:03:23.925 INFO  Limbo -- version - Display limbo version
+17:03:30.705 INFO  Limbo -- Stopping server...
+17:03:30.707 INFO  Limbo -- Server stopped, Goodbye!
+17:10:33.111 INFO  Limbo -- Starting server...
+17:10:34.092 INFO  Limbo -- Server started on localhost/127.0.0.1:25566
+17:12:49.169 INFO  Limbo -- Player YeelerDarver8239 connected (/127.0.0.1:33582) [V1_12_2]
+17:13:00.024 INFO  Limbo -- Player YeelerDarver8239 disconnected
